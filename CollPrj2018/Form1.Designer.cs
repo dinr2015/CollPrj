@@ -39,9 +39,9 @@
             this.label1.Font = new System.Drawing.Font("Times New Roman", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label1.Location = new System.Drawing.Point(12, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(187, 31);
+            this.label1.Size = new System.Drawing.Size(107, 31);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Георгий лдыпр";
+            this.label1.Text = "Георгий";
             // 
             // label2
             // 
